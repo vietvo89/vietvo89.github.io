@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The University of Adelaide</a>. quocviet.vo@adelaide.edu.au #Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>The University of Adelaide</a>. quocviet.vo@adelaide.edu.au #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
