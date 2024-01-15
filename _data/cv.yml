@@ -83,7 +83,7 @@
         - Postgraduate Research Scholarship
     - year: 2012
       items: 
-        - Intel Vietnam Scholars
+        - Intel Vietnam Scholarship
 
 - title: Academic Interests
   type: nested_list
@@ -91,7 +91,7 @@
     - title: Machine Learning Trustworthy and AI Safety.
       items: 
         - Robustness of LLM and Foundation Models.
-        - Adversarial Attacks and Defense.
+        - Adversarial Attacks and Defense in Black-box Setting.
     - title: Generative AI and Multimodal Models.
       items:
         - Diffusion.
