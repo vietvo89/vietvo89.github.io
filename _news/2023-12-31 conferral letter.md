@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got my "Award Conferral Confirmation Letter" and officially graduated. :sparkles: :smile:
+I got my "Award Conferral Confirmation Letter" and officially graduated. My thesis is [Towards Robust Deep Neural Networks: Query Efficient Black-Box Adversarial Attacks and Defences](https://digital.library.adelaide.edu.au/dspace/handle/2440/140135) :sparkles: :smile:
