@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vietvo89.github.io/al-folio/sitemap.xml
+Sitemap: https://vietvo89.github.io/sitemap.xml
