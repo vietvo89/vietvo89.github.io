@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LLM 4 Finance
+title: LLM for Finance
 description: Integrate LLM into Banking Management
 img: assets/img/3.jpg
 importance: 2
