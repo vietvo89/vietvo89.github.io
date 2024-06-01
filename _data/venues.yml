@@ -6,8 +6,12 @@
   url: https://journals.aps.org/
 
 "ICLR":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
   color: "#009f36"
 
 "Thesis":
-  url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
+  url: https://digital.library.adelaide.edu.au
   color: "#00369f"
+
+"NDSS":
+  url: https://www.ndss-symposium.org/
