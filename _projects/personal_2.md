@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Personal Project
-description: LLM for Finance
-img: assets/img/3.jpg
-importance: 2
-category: fun
+title: Scene Generation
+description: Employ Diffusion to generate scene
+img: assets/img/7.jpg
+importance: 3
+category: personal
 ---
 
 In progress
 
-    1. LLM stuff
-    2. Finance stuff
+    1. Diffusion model
+    2. Condition embedding
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
