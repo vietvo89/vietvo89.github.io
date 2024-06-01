@@ -1,23 +1,17 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Diffusing Defense
+description: Against Black-box Attacks
 img: assets/img/1.jpg
-importance: 3
+importance: 1
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Black-box attacks pose significant practical, safety, and security risks, using minimal information and practical query budgets to craft adversarial examples. These near-information-vacuum attacks challenge the development of effective defenses. We aim for robustness against black-box attacks without compromising performance. Inspired by cryptographic principles of diffusion and confusion, we propose randomly sampling subsets of models from a larger set for predictions to introduce uncertainty into query responses.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    1. Model Response uncertainty
+    2. Model diversity
     ---
 
 <div class="row">
@@ -59,6 +53,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+---
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
