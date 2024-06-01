@@ -5,5 +5,9 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"ICLR":
   color: "#009f36"
+
+"Thesis":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
+  color: "#00369f"
