@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Scene Generation
+title: Amazing Project 2 #Scene Generation
 description: Employ Diffusion to generate scene
 img: assets/img/7.jpg
 importance: 3
 category: personal
 ---
 
-In progress
+**Status**:
+- In progress
 
-    1. Diffusion model
-    2. Condition embedding
+---
+##### Key components
+    1. Generative AI
+    2. Critical Application domain (You name it)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
