@@ -37,14 +37,19 @@
   contents:
     - title: Postdoctoral Researcher
       institution: The University of Adelaide, South Australia, Australia
-      year: 2023 - Now
+      year: 2023 - 2024
       description:
-        - Description 1.
+        - Trustworthy Machine Learning (AI safety)
         # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
+    - title: Postdoctoral Researcher
+      institution: Australian Institute for Machine Learning Building, South Australia, Australia
+      year: 2024 - Now
+      description:
+        - Trustworthy Machine Learning and LLM (AI safety)
     # - title: Process and Equipment Engineer
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
