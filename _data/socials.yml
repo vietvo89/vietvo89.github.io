@@ -9,9 +9,10 @@ orcid_id: 0000-0001-6413-8875
 research_gate_profile: Quoc-Viet-Vo # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: u5H3IooAAAAJ # your Google Scholar ID
+github_username: vietvo89 # your GitHub user name
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
