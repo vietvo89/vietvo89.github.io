@@ -1,4 +1,10 @@
+"Arxiv":
+  color: "#FFFFFF"
+
 "EMNLP":
+  color: "#FF0000"
+
+"ACL":
   color: "#FF0000"
 
 "AAAI":
