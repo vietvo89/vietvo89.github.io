@@ -19,6 +19,7 @@ In this study, we investigated different methods in zero-shot and few-shot setti
     - Cache model/ Tip-Adapter
     - Clip-Adapter
     - APE
+    - Task Residual
     - LoRA
     - Activate Steering Vector
     ---
@@ -70,5 +71,5 @@ We propose __Adaptive Steering Vector (AdaSV)__, a learnable framework that embe
     </div>
 </div>
 <div class="caption">
-    Left figure shows how to construct a steering vector and add to a transformer layer. Right figure show the results on CIFAR-10 and x-View 1.
+    Left figure shows how to construct a steering vector and add to a transformer layer. Right figure shows the results on CIFAR-10 and x-View 1.
 </div>
