@@ -7,7 +7,7 @@ year: 2026
 term: Term 2
 location: Adelaide City Campus East
 time: Mondays and Wednesdays, 11:00 AM - 13:00 PM
-course_id: [COMP 6026](https://adelaide.edu.au/study/courses/comp-6026/)
+course_id: COMP 6026 (https://adelaide.edu.au/study/courses/comp-6026/)
 schedule:
   - week: 1
     date: Sept 5
@@ -105,7 +105,6 @@ This is course is designed to delve into the intricacies of deep learning, focus
 
 ## Grading
 
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
-- Participation: 10%
+- Assignments: 75%
+- Open book quizes: 10%
+- Close book quizes: 15%
