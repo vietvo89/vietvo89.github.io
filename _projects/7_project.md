@@ -43,7 +43,7 @@ In this study, we investigated different methods in zero-shot and few-shot setti
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Visualization of different images from remote sensing dataset __x-View1__.
 </div>
 
 You can also put regular text between your rows of images.
