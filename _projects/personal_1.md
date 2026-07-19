@@ -2,8 +2,8 @@
 layout: page
 title: Amazing Project 1
 description: with background image
-img: assets/img/12.jpg
-importance: 4
+img: assets/img/3.jpg
+importance: 1
 category: personal
 related_publications: true
 ---
