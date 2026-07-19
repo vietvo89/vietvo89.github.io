@@ -4,35 +4,38 @@ title: project 9
 description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 1
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Abstract:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Few-shot learning is critical for data-scarce domains like remote sensing, but foundation models like CLIP struggle when novel concepts are poorly separated in pretrained latent spaces. To optimize performance with minimal parameters, this study evaluates parameter-efficient fine-tuning (PEFT) methods. Results show Low-rank Adaptation (LoRA) is highly effective, particularly for indistinguishable classes. Additionally, we propose a lightweight steering-vector-based mechanism for targeted representation modulation using significantly fewer parameters. Integrated with existing techniques, this approach consistently boosts downstream performance, demonstrating the value of structured, representation-aware adaptation in data-scarce environments like remote sensing.
+
+In this study, we investigated different methods in zero-shot and few-shot settings:
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    - Model soup
+    - Model ensemble
+    - Cache model/ Tip-Adapter
+    - Clip-Adapter
+    - APE
+    - LoRA
+    - Activate Steering Vector
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rm_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rm_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rm_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Visualization of different images from remote sensing dataset __x-View1__.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

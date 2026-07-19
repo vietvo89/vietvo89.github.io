@@ -14,3 +14,4 @@ category: personal
 ##### Key components
     1. Generative AI
     2. Critical Application domain (You name it)
+    
