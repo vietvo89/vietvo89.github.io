@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"AAAI":
+  url: https://aaai.org/conference/aaai/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"ICLR":
+  url: https://iclr.cc/
   color: "#009f36"
+
+"NDSS":
+  url: https://www.ndss-symposium.org/
+  color: "#019f00"
