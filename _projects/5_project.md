@@ -2,7 +2,7 @@
 layout: page
 title: Diffusing Defense
 description: Against Black-box Attacks
-img: assets/img/1.jpg
+img: assets/img/intro_defense_project_page.png
 importance: 5
 category: work
 ---
@@ -13,4 +13,4 @@ Black-box attacks pose significant practical, safety, and security risks, using 
     2. Model diversity
 
 **Status**:
-- In progress
+- Finished
