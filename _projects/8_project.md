@@ -7,6 +7,8 @@ importance: 8
 category: work
 ---
 
+__Collaboration:__ [Acacia Systems](https://www.acaciasystems.com.au/)
+
 __Motivation__
 
 Using Large Language Models (LLMs) to translate natural language into structured optimization inputs provides three core benefits. First, it democratizes the process, allowing non-technical users to define optimization problems without relying on domain experts. Second, it boosts efficiency by automating variable extraction and encoding, which significantly cuts manual processing time. Finally, its dialogue-driven nature improves reliability; the system iteratively resolves ambiguities and gaps, ensuring complete specifications that lead to consistent, trustworthy optimization outcomes.

@@ -7,6 +7,8 @@ importance: 7
 category: work
 ---
 
+__Collaboration:__ [Defence Science and Technology Group (DSTG)](https://www.dst.defence.gov.au/)
+
 __Abstract__
 
 Few-shot learning is critical for data-scarce domains like remote sensing, but foundation models like CLIP struggle when novel concepts are poorly separated in pretrained latent spaces. To optimize performance with minimal parameters, this study evaluates parameter-efficient fine-tuning (PEFT) methods. Results show Low-rank Adaptation (LoRA) is highly effective, particularly for indistinguishable classes. Additionally, we propose a lightweight steering-vector-based mechanism for targeted representation modulation using significantly fewer parameters. Integrated with existing techniques, this approach consistently boosts downstream performance, demonstrating the value of structured, representation-aware adaptation in data-scarce environments like remote sensing.
