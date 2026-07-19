@@ -7,7 +7,7 @@ importance: 7
 category: work
 ---
 
-Abstract:
+__Abstract__
 
 Few-shot learning is critical for data-scarce domains like remote sensing, but foundation models like CLIP struggle when novel concepts are poorly separated in pretrained latent spaces. To optimize performance with minimal parameters, this study evaluates parameter-efficient fine-tuning (PEFT) methods. Results show Low-rank Adaptation (LoRA) is highly effective, particularly for indistinguishable classes. Additionally, we propose a lightweight steering-vector-based mechanism for targeted representation modulation using significantly fewer parameters. Integrated with existing techniques, this approach consistently boosts downstream performance, demonstrating the value of structured, representation-aware adaptation in data-scarce environments like remote sensing.
 
@@ -29,7 +29,7 @@ In this study, we investigated different methods in zero-shot and few-shot setti
     </div>
 </div>
 <div class="caption">
-    Visualization of different images from remote sensing dataset __x-View1__.
+    Visualization of different images from remote sensing dataset <strong>x-View1</strong>.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,10 +62,10 @@ In this study, we investigated different methods in zero-shot and few-shot setti
 We propose __Adaptive Steering Vector (AdaSV)__, a learnable framework that embeds __Trainable Steering Vectors (TSVs)__ across layers to generate gradual representation shifts. This approach aims to enhance class distinction using substantially fewer parameters while matching the performance of current few-shot adaptation methods.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/tsv.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/table.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
