@@ -1,3 +1,6 @@
+"EMNLP":
+  color: "#FF0000"
+
 "AAAI":
   url: https://aaai.org/conference/aaai/
   color: "#00369f"
@@ -8,4 +11,4 @@
 
 "NDSS":
   url: https://www.ndss-symposium.org/
-  color: "#019f00"
+ 
