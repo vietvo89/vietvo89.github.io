@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Efficient Domain Adaptation
+description: Remote Sensing with limited data 🎉
+img: assets/img/embedding.png
 importance: 7
 category: work
 ---
