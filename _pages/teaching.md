@@ -17,6 +17,4 @@ calendar: true
     - Operating Systems (COMP SCI 3004/7064)
     - Grand Challenges in Computer Science (COMP SCI 1104)
 
-<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
-
 {% include courses.liquid %}
