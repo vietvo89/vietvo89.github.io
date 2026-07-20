@@ -6,83 +6,102 @@ instructor: Dr. Viet Vo
 year: 2026
 term: Term 2
 location: Adelaide City Campus East
-time: Mondays and Wednesdays, 11:00 AM - 13:00 PM
-course_id: COMP 6026 (https://adelaide.edu.au/study/courses/comp-6026/)
+time: Mondays, 11:00 AM - 13:00 PM and 14:00 - 16:00 PM. Wednesdays, 14:00 - 15:00 
+course_id: COMP 6026 
+url: https://adelaide.edu.au/study/courses/comp-6026/
 schedule:
   - week: 1
-    date: Sept 5
-    topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
+    date: June 1
+    topic: Introduction to Deep Learning
+    description: Overview of deep learning, course structure, and expectations.
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+      - name: Lecture Notes
+      - name: Coding Lab
 
   - week: 2
-    date: Sept 12
-    topic: Linear Regression
-    description: Introduction to linear regression, gradient descent, and model evaluation.
+    date: June 8
+    topic: Neural Network Optimization
+    description: Introduction to gradient descent, overfitting and regularization.
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+      - name: Coding Lab
+      - name: Quiz 1
 
   - week: 3
-    date: Sept 19
-    topic: Classification
-    description: Logistic regression, decision boundaries, and multi-class classification.
+    date: June 15
+    topic: Introduction to Convolutional Neural Networks
+    description: Convolution and multi-class classification.
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
       - name: Coding Lab
-        url: https://github.com/
+      - name: In-class Quiz 1
+      - name: Assignment 1
 
   - week: 4
-    date: Sept 26
-    topic: Decision Trees and Random Forests
-    description: Tree-based methods, ensemble learning, and feature importance.
+    date: June 22
+    topic: CNN Architecture
+    description: Pooling and LeNet.
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+      - name: Coding Lab
+      - name: Quiz 2
 
   - week: 5
-    date: Oct 3
-    topic: Support Vector Machines
-    description: Margin maximization, kernel methods, and support vectors.
+    date: June 29
+    topic: Modern Applications
+    description: Introduction of Architecture.
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
+      - name: Coding Lab
+      
   - week: 6
-    date: Oct 10
-    topic: Midterm Exam
-    description: Covers weeks 1-5.
+    date: July 6
+    topic: Alexnet and VGG
+    description: Advancing ANN design with repitive blocks.
+    materials:
+      - name: Lecture Notes
+      - name: Coding Lab
+      - name: Quiz 3
 
   - week: 7
-    date: Oct 17
-    topic: Neural Networks Fundamentals
-    description: Perceptrons, multilayer networks, and backpropagation.
+    date: July 13
+    topic: GoogLeNet, ResNet and Densenet
+    description: Inception, residual learning and dense connectivity.
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 8
-    date: Oct 24
-    topic: Deep Learning
-    description: Convolutional neural networks, recurrent neural networks, and applications.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
       - name: Coding Lab
-        url: https://github.com/
+      - name: Assignment 2
+      
+  - week: 8
+    date: July 20
+    topic: Sequence Modeling and Attention Mechanisms
+    description: Attention mechanism and multi-head attention.
+    materials:
+      - name: Lecture Notes
+      - name: Coding Lab
+      - name: Quiz 4
+      - name: In-class Quiz 2
+      
+  - week: 9
+    date: July 27
+    topic: Transformer
+    description: Transformer and Vistion transformer.
+    materials:
+      - name: Lecture Notes
+      - name: Coding Lab
+
+  - week: 10
+    date: Aug 3
+    topic: LLM
+    description: From transformer to LLM.
+    materials:
+      - name: Lecture Notes
+      - name: Coding Lab
+      - name: Quiz 5
+      - name: In-class Quiz 3
+      - name: Assignment 3
 ---
 
 ## Course Overview
