@@ -62,7 +62,7 @@ In this study, we investigated different methods in zero-shot and few-shot setti
     Class similarity visualization across 60 novel categories in the xView-1 dataset. Feature similarities are computed using text embeddings from both the pre-trained RemoteCLIP model and its LoRA fine-tuned counterpart. The comparison demonstrates that while numerous novel classes overlap significantly in the original pretrained latent space, LoRA fine-tuning successfully adapts the text encoder to expand the margins between these classes.
 </div>
 
-#### Method:
+#### Method
 We propose __Adaptive Steering Vector (AdaSV)__, a learnable framework that embeds __Trainable Steering Vectors (TSVs)__ across layers to generate gradual representation shifts. This approach aims to enhance class distinction using substantially fewer parameters while matching the performance of current few-shot adaptation methods.
 
 <div class="row justify-content-sm-center">
