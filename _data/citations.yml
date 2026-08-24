@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-24'
 papers:
+  u5H3IooAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Can Model Randomization Offer Robustness Against Query-Based Black-Box Attacks?
+    year: Unknown Year
   u5H3IooAAAAJ:9yKSN-GCB0IC:
-    citations: 21
+    citations: 20
     title: 'RamBoAttack: A Robust Query Efficient Deep Neural Network Decision Exploit'
     year: '2022'
   u5H3IooAAAAJ:LkGwnXOMwfcC:
@@ -13,10 +17,6 @@ papers:
     citations: 1
     title: Certified but Fooled! Breaking Certified Defences with Ghost Certificates
     year: '2025'
-  u5H3IooAAAAJ:UebtZRa9Y70C:
-    citations: 0
-    title: Can Model Randomization Offer Robustness Against Query-Based Black-Box Attacks?
-    year: Unknown Year
   u5H3IooAAAAJ:WF5omc3nYNoC:
     citations: 37
     title: Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models
