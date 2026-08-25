@@ -1,19 +1,12 @@
 "adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+  - firstname: ["Damith", "D. R.", "Damith. R.", "Damith Ranasinghe"]
+    url: https://researchers.adelaide.edu.au/profile/damith.ranasinghe
 
 "podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+  - firstname: ["Ehsan", "E.", "E. A.", "Ehsan Abbasnejad"]
+    url: https://ehsanabb.github.io/Home.html
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"trungle":
+  - firstname: ["Trung", "Trung L.","Trung Le", "T. L."]
+    url: https://www.trungle.org/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
- 

@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Applied Artificial Intelligence and Machine Learning
-description: This course provides an knowledge to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+description: This course provides an knowledge to deep learning concepts, algorithms, and applications. Students will learn about supervised learning, model evaluation, and practical implementations.
 instructor: Dr. Viet Vo
 year: 2026
 term: Term 2
